@@ -1,0 +1,2 @@
+web: python pong.py
+worker: python pong.py 
